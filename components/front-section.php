@@ -22,6 +22,11 @@
                             <?php endif; ?>
                             <?php the_title(); ?>
                         </a>
+                        <br>
+                        <!-- 投稿日 -->
+                        <time datetime="<?php echo get_the_date('Y-m-d')?>">
+                            <?php echo get_the_date('Y/n/j') ?>
+                        </time>
                         <!-- リード文 -->
                         <p><?php the_excerpt(); ?></p>
                     </div>
