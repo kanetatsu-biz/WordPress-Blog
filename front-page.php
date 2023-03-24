@@ -5,8 +5,8 @@
 <?php
     // 最新のニュースを３件表示
     $news_args = [
-        'title' => 'ニュース',
-        'nothing_msg' => 'ニュースはありません。',
+        'title' => 'NEWS',
+        'nothing_msg' => 'NEWSはありません。',
         'query' => [
             'posts_per_page' => 3,
             'category_name' => 'news',
