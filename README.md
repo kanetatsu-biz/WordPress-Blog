@@ -10,7 +10,10 @@ WordPressを使ったブログサイト制作
 2023/06/20時点での、簡易的なデモ動画を作成しましたのでご覧ください。
 
 ##### 動画１（TOP、NEWS、プロフィール）
-https://github.com/kanetatsu-biz/WordPress-Blog/assets/123366737/aa8445cc-c77a-499e-8207-ca18522711f6
+https://github.com/kanetatsu-biz/WordPress-Blog/assets/123366737/a79bbb51-62cd-4547-948f-7e2790e489a6
+
+
 
 ##### 動画２（投稿、ギャラリー、お問い合わせ）
-https://github.com/kanetatsu-biz/WordPress-Blog/assets/123366737/5f31ae6c-f992-4c4e-b148-0a598cc123f2
+https://github.com/kanetatsu-biz/WordPress-Blog/assets/123366737/c4339ac5-dbdf-4878-a0f8-edb01cf59461
+
